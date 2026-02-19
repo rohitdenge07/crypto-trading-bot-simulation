@@ -6,3 +6,20 @@
 1. Clone repo
 2. pip install -r requirements.txt
 3. Run: python main.py
+
+
+
+Project Name: Binance Futures Trading Bot
+
+Description:
+This project is a Python-based trading bot that places MARKET and LIMIT orders on Binance Futures Testnet.
+
+
+
+How to Run:
+1. Create virtual environment
+2. Install dependencies:
+   pip install -r requirements.txt
+3. Add .env file with API keys
+4. Run:
+   python 
