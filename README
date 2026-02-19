@@ -1,0 +1,8 @@
+# Crypto Price Monitor
+
+🪙 Uses CoinGecko Free API (no registration, no KYC)
+
+## Setup
+1. Clone repo
+2. pip install -r requirements.txt
+3. Run: python main.py
